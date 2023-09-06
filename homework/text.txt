@@ -1,0 +1,17 @@
+ray@tlu.ee
+
+npm - package download
+
+nodemon - kontrollib ise serveri muudatusi, et ei peaks avama ja sulgema
+
+react - 
+
+
+git clone https://github.com/EgleVestrik/rakenduste-programmeerimine-2023.git
+
+----
+
+git status
+git add .
+git commit -m "komentaar"
+git push
