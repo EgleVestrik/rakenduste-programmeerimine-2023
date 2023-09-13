@@ -1,6 +1,5 @@
 
 
-
 function greetName(nimi) {
     return `Tere ${nimi}`;
 }
